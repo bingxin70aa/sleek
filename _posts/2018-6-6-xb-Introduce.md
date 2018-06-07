@@ -2,7 +2,7 @@
 layout: post
 title: 身为广东人，提到“广府文化”你谂到乜
 summary: 广府文化指以广州为核心、以珠江三角洲为通行范围的粤语文化。或许很多人都以为广府文化就是粤语这么简单，小编只能说，你真的是图样图森破了！
-featured-img: emile-perron-190221
+featured-img: tea
 categories: 粤文化及其衰落的原因
 ---
 
