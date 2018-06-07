@@ -3,7 +3,7 @@ layout: post
 title: 粤语的未来应交还给市场选择
 summary: 近年来，一些政策对粤语进行限制，让人对其保护传承感到了担忧，事实上，保护粤语文化并非是多虑，但矫枉过正就难免杞人忧天了。
 featured-img: zp-brother
-categories: [普粵之爭,我都在學廣東話，誰敢廢粵]
+categories: [保護與未來]
 ---
 
 <br>
