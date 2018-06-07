@@ -2,7 +2,7 @@
 layout: post
 title: 身为广东人，提到“广府文化”你谂到乜
 summary: 广府文化指以广州为核心、以珠江三角洲为通行范围的粤语文化。或许很多人都以为广府文化就是粤语这么简单，小编只能说，你真的是图样图森破了！
-featured-img: tea.png
+featured-img: tea
 categories: 粤文化及其衰落的原因
 ---
 
@@ -31,7 +31,7 @@ categories: 粤文化及其衰落的原因
 ------
 <br>&#160;&#160;&#160;&#160;&#160;&#160;一盅两件，开启惬意晨光
 <br>&#160;&#160;&#160;&#160;&#160;&#160;都说“食在广州”，但广府人最爱的还是“饮茶”。一壶浓茶，几件美点，三五好友，话家常、聊人生，越聊越亲近。广府文化的“重商务实”在这小小圆桌上，展露无遗。
-![tea](https://bingxin70aa.github.io/sleek/assets/img/posts/tea.png)
+![tea](https://bingxin70aa.github.io/sleek/assets/img/posts/tea.jpg)
 
 <br>
 
