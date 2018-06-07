@@ -1,87 +1,29 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: 粤语落寞的原因
 featured-img: sleek
-mathjax: true
+summary:   ...
+categories: [粤文化及其衰落的原因]
 ---
 
-# Getting started
-
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-
-1. Just download or fork and clone the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/).
-2. Make sure your local machine has ruby and node
-3. Edit site settings in  `_config.yml` file according to your project.
-4. Replace `favicons` and `_includes/logo.svg` with your own logo.
-
-**Note** that you might have to adjust some CSS depending on the width and height of your logo. You can find Header / Navigation related SCSS in `_sass/layout/nav.scss`.
-
-## Writing content
-
-### Posts
-
-Create a new Markdown file such as `2017-01-13-my-post.md` in `_post` folder. Configure YAML Front Matter (stuff between `---`):
-
-```yaml
-
----
-layout: post # needs to be post
-title: Getting Started with Sleek # title of your post
-featured-img: sleek #optional - if you want you can include hero image
----
-
+<br><br>
+```
+在这个时代许多地域的方言在官方语言的普及下或等等原因，都走向落寞。不至于粤语，如台湾的台语，与客家语言，大陆潮州话，等等方言。方言的落寞是在许多地域普遍发现的现象
 ```
 
-#### Images
+<br>&#160;&#160;&#160;&#160;&#160;&#160;粤语文化在粤语使用频繁的地方是两广地区（广东和广西）,与香港澳门，还有海外粤文化的侨胞。在近些年粤语落寞的原因的有1普通话的普及2在80、90年代引领着流行文化粤文化的香港，流行文化落寞 3两广地区以及港澳地区城市移民增加4海外粤文化的侨胞势力大不如前。
 
-In case you want to add a hero image to the post, apart from changing `featured-img` in YAML, you also need to add the image file to the project. To do so, just upload an image in `.jpg` format to `_img` folder. The name must before the `.jpg` file extension has to match with `featured-img` in YAML. Next, run `gulp img` from command line to generate optimized version of the image and all the thumbnails. You have to restart  the jekyll server to see the changes. Sleek uses [Lazy Sizes](https://github.com/aFarkas/lazysizes) Lazy Loader for loading images. Check the link for more info. Lazy Sizes doesnt't require any configuration and it's going to be included in your bundled js file.
+<br>&#160;&#160;&#160;&#160;&#160;&#160;普通话的普及是粤语文化走向落寞很大一个原因。
+中华人民共和国规定广东学校都要用普通话教学，用粤语教学的机会被剥夺。
+年轻一代长期在普通话的环境下成长，以致于部分广东小孩可以说得一口流利的普通话，落寞很大一部分就是从年轻一代开始，许多年轻人受到当年政策的影响生活在广东地区，却不会说自己的母语，一个地方的年轻一代决定着一个地方的未来，从娃娃抓起的推普政策使得这个地方很多年轻一代不会说自己的母语，当年轻一代逐渐成长成人后，地方母语的落寞很快就体现出来。
+推普还在于广东许多公共场、政府单位、银行、高档酒店不使用粤语。使用粤语的环境减少，当然也是粤语落寞的一个方面。
 
-### Pages
+<br>&#160;&#160;&#160;&#160;&#160;&#160;在上世纪80、90香港影视娱乐行业引领了流行文化，如现在的韩国和日本流行文化，当时香港流行文化风靡整个亚洲，如韩国电视剧《请问答1988》里在那个年代，韩国如多人模仿香港流行的爆炸头，牛仔裤，海报贴着是周润发，刘德华。连韩国都被香港的流行文化席卷。可想而知大陆的影响力，在当时许多人认为唱粤语歌曲，说粤语是一件很时尚的事情。说粤语方言的地区也为自己能说粤语感到十分接近潮流。  如今香港流行文化，影视娱乐行业落寞，很大程度上影响了粤语文化，两广地区如今看TVB听着粤语歌的人已经大大减少，不像当年的每家每户都在看港剧，听着随声听时而哼唱着几句粤语歌  .
+粤文化的落寞很大程度跟香港影视文化，流行文化落寞有关，
 
-The home page is located under `index.md` file. To change the content or design you have to edit the `default.html` file in `_layouts` folder.
+<br>&#160;&#160;&#160;&#160;&#160;&#160;现在由于来自两广的老移民在海外华人社区经济与文化渐渐衰落，而来自中国大陆及台湾的移民逐渐占据新华人移民的主体，并且由于其受教育程度和经济能力远较前者优秀，现在在海外华人社区中粤语的使用呈现衰落之势。 
+　<br>&#160;&#160;&#160;&#160;&#160;&#160;　现状目前全球粤语使用人口大约有6700万至1.3亿，使用地区非常广泛。粤语不仅在海外华人社区中被广泛应用，而且支持着香港文化及南粤文化为中心的粤语文化，这使得粤语具有很强的影响力，可以说是目前世界上有较强生命力的语言之一。目前粤语已经成为澳大利亚第四大语言，加拿大第三大语言，美国第三大语言。
 
-In order to add a new page, create a new html or markdown file under root directory or inside `_pages` folder. To add a link to the page, edit `navigation` setting in `_config.yml`.
+<br>&#160;&#160;&#160;&#160;&#160;&#160;但是母语粤语就不太懂。这种情况的出现使得不少以粤语为母语的人士开始对自己母语产生危机感。近年来要求保护本土语言文化的呼声逐渐开始大
 
-### Images TODO
-
-Introduce gulp optimization
-
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Thumb | 535px | 1070px
-sm |Post Thumb | 500px| 1000px
-md |Post Thumb | 329.375px | 658.75px
-lg |Post Thumb | 445.625px | 891.25px
-xl |Post Thumb | 353.125px | 706.25px
-
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Hero | 535px | 1070px
-sm |Post Hero | 500px| 1000px
-md |Post Hero | 329.375px | 658.75px
-lg |Post Hero | 445.625px | 891.25px
-xl |Post Hero | 353.125px | 706.25px
-
-### MathJax
-
-If you want to use [MathJax](https://www.mathjax.org/) in your posts, add `mathjax: true` in [YAML front matter](https://jekyllrb.com/docs/frontmatter/) of your post:
-
-```yaml
----
-layout: post
-title: Blog Post with MathJax
-featured-img: sleek # optional - if you want you can include name of hero image
-mathjax: true # add this line in order to enable MathJax in the post
----
-```
-
-#### Example
-
-In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
-for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
-divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
-The kerel summation radius $r$ is equal to the N-simplex height $h$.
-
-$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
-Happy hacking!
+(編輯：陳嘉祥）
