@@ -9,6 +9,7 @@ permalink: /about/
 <br>
 <br>
 注：小組分工如下：
+<br>
 甘瑜（組長）：ppt演講與製作者、[新聞採訪與視頻製作](https://www.youtube.com/watch?v=GWqxg1URaCY&feature=youtu.be)、[新聞撰寫* 1](https://bingxin70aa.github.io/sleek/fish-2-1-war/) 
 <br>
 侯冰昕：[新聞撰寫* 1](https://bingxin70aa.github.io/sleek/bc-2-2-govtalk/) 、[網頁製作與設計](https://bingxin70aa.github.io/sleek/)、[新聞採訪與視頻後期製作](https://www.youtube.com/watch?v=GWqxg1URaCY&feature=youtu.be)
