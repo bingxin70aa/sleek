@@ -15,7 +15,7 @@ categories: 粤文化及其衰落的原因
 粤语
 ------
 <br>&#160;&#160;&#160;&#160;&#160;&#160;粤语是广府文化的标志和传承载体，它不但是语言的交流工具，更是包含了广府人的思想观念、社会习俗和生产生活等方面的信息。粤语还被联合国教科文组织承认为语言！
-![like](assets/img/posts/like.png)
+![like](https://bingxin70aa.github.io/sleek/assets/img/posts/like.png)
 
 <br>
 
@@ -23,7 +23,7 @@ categories: 粤文化及其衰落的原因
 ------
 
 <br>&#160;&#160;&#160;&#160;&#160;&#160;丰富多采的民俗节庆，是广府城市记忆中的一抹亮色。赛龙舟、乞巧节、迎春花市、波罗诞、广府庙会……广府民俗节庆活动精彩纷呈，广受欢迎。
-![longzhou](assets/img/posts/longzhou.png)
+![longzhou](https://bingxin70aa.github.io/sleek/assets/img/posts/longzhou.png)
 
 <br>
 
@@ -31,7 +31,7 @@ categories: 粤文化及其衰落的原因
 ------
 <br>&#160;&#160;&#160;&#160;&#160;&#160;一盅两件，开启惬意晨光
 <br>&#160;&#160;&#160;&#160;&#160;&#160;都说“食在广州”，但广府人最爱的还是“饮茶”。一壶浓茶，几件美点，三五好友，话家常、聊人生，越聊越亲近。广府文化的“重商务实”在这小小圆桌上，展露无遗。
-![tea](assets/img/posts/tea.png)
+![tea](https://bingxin70aa.github.io/sleek/assets/img/posts/tea.png)
 
 <br>
 
@@ -40,7 +40,7 @@ categories: 粤文化及其衰落的原因
 
 <br>&#160;&#160;&#160;&#160;&#160;&#160;广府街景，别样风景
 <br>&#160;&#160;&#160;&#160;&#160;&#160;“一方气候，成一方建筑”，岭南湿热风雨的气候孕育出的骑楼，避风雨、防日晒，反映了广府人务实的文化特性。
-![runbike](assets/img/posts/runbike.png)
+![runbike](https://bingxin70aa.github.io/sleek/assets/img/posts/runbike.png)
 
 <br>
 
@@ -48,7 +48,7 @@ categories: 粤文化及其衰落的原因
 ------
 <br>&#160;&#160;&#160;&#160;&#160;&#160;南国红豆，“热情如火，缠绵悱恻”
 <br>&#160;&#160;&#160;&#160;&#160;&#160;都说“吟不完的岭南风情，唱得尽的人生百味”。粤剧以甜、脆、圆、润、娇的唱腔，抽象形体的表演艺术，深受广府人的喜爱！这块广东的瑰宝薪火相传四百载，2009年更是被列入“世界非物质文化遗产”！
-![singingflower](assets/img/posts/singingflower.png)
+![singingflower](https://bingxin70aa.github.io/sleek/assets/img/posts/singingflower.png)
 
 <br>
 
@@ -56,7 +56,7 @@ categories: 粤文化及其衰落的原因
 ------
 <br>&#160;&#160;&#160;&#160;&#160;&#160;南国瑰宝，散发百年幽香
 <br>&#160;&#160;&#160;&#160;&#160;&#160;据唐人苏颚在《杜阳杂编》所载：“唐永贞元年，南海贡奇女卢眉娘，年十四，工巧无比，能于一尺绢上绣《法华经》七卷，字之大小，不逾粟粒，而点划分明，细如毫发。” 远看非常醒目，近看又精细非常正是广绣无可替代之处！
-![bird](assets/img/posts/bird.png)
+![bird](https://bingxin70aa.github.io/sleek/assets/img/posts/bird.png)
 
 <br><br>
 <br>&#160;&#160;&#160;&#160;&#160;&#160;一盅两件、粤语童谣、连廊骑楼……
@@ -65,7 +65,7 @@ categories: 粤文化及其衰落的原因
 <br>&#160;&#160;&#160;&#160;&#160;&#160;广府工艺精制、细腻、善变
 <br>&#160;&#160;&#160;&#160;&#160;&#160;广府文化的典型代表之一当西关文化莫属。
 <br>&#160;&#160;&#160;&#160;&#160;&#160;荔湾作为地域观念而言，是以旧称“西关”一带为主体的。100多年前，西关已经是名门望族、富商巨贾、洋行买办的聚居之地，也是广州商贸、文化的繁荣中心，由于这种历史背景，西关文化融汇了传统的岭南文化和开放的西方文化精髓。
-![manwoman](assets/img/posts/manwomen.png)
+![manwoman](https://bingxin70aa.github.io/sleek/assets/img/posts/manwomen.png)
 
 <br><br>
 (編輯：許彬）
