@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: news # your site title
+title: “粵語保衛戰”2.0來襲！ # your site title
 author: bingxin70aa # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  距離粵語泯滅還有幾年你知道嗎？
+  你知道距離粵語泯滅還有幾年嗎？
 
 hero_img: posts/home.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
