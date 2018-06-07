@@ -59,7 +59,7 @@ categories: [普粵之爭,我都在學廣東話，誰敢廢粵]
 &#160;&#160;&#160;&#160;&#160;&#160; 近年来，我国还加强了对方言的保护。在2013年1月颁布的《国家中长期语言文字事业改革和发展规划纲要（2012-2020）》中，明确提出“科学保护各民族语言文字……加强语言资源数字化建设，推动语言资源共享，充分挖掘、合理利用语言资源的文化价值和经济价值。”早在2008年，各地就已开始建立方言和民族语言的数据库。
 <br> 
 <br>
-![bc-china-protect-language](https://bingxin70aa.github.io/sleek/assets/img/posts/bc-china-protect-language.jpg)
+![bc-china-protect-language](https://bingxin70aa.github.io/sleek/assets/img/posts/bc-china-protect-language .jpg)
 <br>
 
 <br>&#160;&#160;&#160;&#160;&#160;&#160; 暨南大学汉语方言研究中心名誉主任詹伯慧教授也认为，推广普通话和保护地方方言两者之间并不矛盾。现在广州借亚运会推广普通话，也是一件好事，这并不会对粤语造成威胁。“粤语绝不会消失，广东人日常生活中都在用，它还是很有生命力的！”
